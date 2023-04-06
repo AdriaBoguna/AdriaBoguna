@@ -17,7 +17,13 @@ class Skills extends SoftwareDeveloper {
   frameworks = ['React', 'React Native', 'Angular'];
 }
 ```
+```javascript
+// Which came first: the chicken or the egg?
+console.log(['🥚', '🐣', '🐥', '🐔'].sort())
+
+>>> [ '🐔', '🐣', '🐥', '🥚' ]
+```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-⭐️ From [naveenverma1](https://github.com/AdriaBoguna)
+⭐️ From [AdriaBoguna](https://github.com/AdriaBoguna)
