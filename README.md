@@ -20,14 +20,14 @@ class Skills extends SoftwareDeveloper {
   others     = ['Git', 'GitLab', 'GitHub', 'VS Code', 'Unity'];
 }
 ```
---
+
 ```javascript
 // Which came first: the chicken or the egg?
 console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
---
+
 ⚡ Puedes ver mi portfolio en [https://AdriaBoguna.github.io/portfolio/](https://adriaboguna.github.io/portfolio/)
 ---
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
