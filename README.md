@@ -7,7 +7,7 @@
 ```js
 import SoftwareDeveloper from 'AdriaBoguna';
 
-class Bio extends SoftwareDeveloper {
+class Bio extends JuniorDeveloper {
   name     = 'Boguñá Adrià';
   title    = 'Junior Developer';
   location = 'Barcelona';
