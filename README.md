@@ -13,7 +13,7 @@ class Bio extends JuniorDeveloper {
   location = 'Barcelona';
 }
 
-class Skills extends SoftwareDeveloper {
+class Skills extends JuniorDeveloper {
   languages  = ['JavaScript', 'HTML', 'CSS', 'C#'];
   databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
   frameworks = ['React', 'React Native', 'Angular'];
