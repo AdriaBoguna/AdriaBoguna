@@ -16,7 +16,7 @@ class Bio extends JuniorDeveloper {
 class Skills extends JuniorDeveloper {
   languages  = ['JavaScript', 'HTML', 'CSS', 'C#'];
   databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['React', 'React Native', 'Angular'];
+  frameworks = ['React', 'Vue', 'Bootstrap'];
   others     = ['Git', 'GitLab', 'GitHub', 'VS Code', 'Unity'];
 }
 ```
