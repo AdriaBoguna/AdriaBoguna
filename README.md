@@ -28,12 +28,12 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
 <br>
-### ⚙️ &nbsp;GitHub Analytics
+⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/AdriaBoguna">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AdriaBoguna&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdriaBoguna&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AdriaBoguna&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="max-width: 100%;" class="hoverZoomLink"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdriaBoguna&layout=compact&langs_count=8&theme=algolia" style="max-width: 100%;" class="hoverZoomLink"/>
 </a>
 </p>
 
