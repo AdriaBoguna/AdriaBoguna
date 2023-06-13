@@ -27,7 +27,15 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
+<br>
+### ⚙️ &nbsp;GitHub Analytics
 
+<p align="center">
+<a href="https://github.com/AdriaBoguna">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AdriaBoguna&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdriaBoguna&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 ⚡ Puedes ver mi portfolio en [https://AdriaBoguna.github.io/Portfolio/](https://adriaboguna.github.io/Portfolio/)
