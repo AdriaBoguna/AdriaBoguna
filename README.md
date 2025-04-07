@@ -5,7 +5,7 @@
 ---
 
 ```js
-import JuniorDeveloper from 'AdriaBoguna';
+import Developer from 'AdriaBoguna';
 
 class Bio extends Developer {
   name     = 'Boguñá Adrià';
