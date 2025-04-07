@@ -7,17 +7,17 @@
 ```js
 import JuniorDeveloper from 'AdriaBoguna';
 
-class Bio extends JuniorDeveloper {
+class Bio extends Developer {
   name     = 'Boguñá Adrià';
-  title    = 'Junior Developer';
+  title    = 'Developer';
   location = 'Barcelona';
 }
 
-class Skills extends JuniorDeveloper {
-  languages  = ['JavaScript', 'HTML', 'CSS', 'C#'];
+class Skills extends Developer {
+  languages  = ['HTML', 'CSS', 'JavaScript', 'C#', 'PHP'];
   databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
   frameworks = ['React', 'Vue', 'Bootstrap'];
-  others     = ['Git', 'GitLab', 'GitHub', 'VS Code', 'Unity'];
+  others     = ['Git', 'GitLab', 'GitHub', 'VS', 'VSC', 'Unity'];
 }
 ```
 
